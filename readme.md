@@ -1,2 +1,2 @@
 # README
->This are my personal observations.
+> These are my personal observations.
